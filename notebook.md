@@ -6,13 +6,6 @@
 
   - [Text Formatting](#text-formatting)
 
------------------------------------------ (above this line)
-
- Add some space and then copy and paste all of the following to the end of your notebook to have the style guide and reference:
-
- 
-
------------------------------------------ (below this line) 
 
 ## Markdown Style Guide for Coding Notebooks
 
