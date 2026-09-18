@@ -1,4 +1,4 @@
-# Welcome to My Portfolio Hello! My name is L.O.
+# Welcome to My Portfolio, Hello! My name is L.O.
 
 ## Projects
 
