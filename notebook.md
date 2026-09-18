@@ -3,7 +3,10 @@
 
 ## Table of Contents
 
-- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+- [Notebook Style Guide]
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
 
   - [Headings](#headings)
 
@@ -15,6 +18,13 @@
 ## Day 1
 
 ### Notes
+Nothing here but us chickens! 
+
+## Blocks
+
+## Concepts
+
+## Vocabulary
 
 ### Practice
 
