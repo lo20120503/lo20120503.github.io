@@ -6,14 +6,22 @@
 
 - [Blocks](#blocks)
 
-Hat Block	Looks like a square, has a little hump at the top, it's used for starting a stack of blocks and belongs as the starting block at the very top of a stack.
+Hat Block	Looks like a square, It has a little hump at the top. It's used for starting a stack of blocks and belongs as the starting block at the very top of a stack.
+
 Stack / Command Block	
+
 C-Block	
+
 Reporter / 
+
 Boolean / 
+
 Repeat Block	
+
 Wait Until Block 
+
 If Then Block	
+
 Forever Block
 
 - [Concepts](#concepts)
