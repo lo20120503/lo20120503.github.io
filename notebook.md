@@ -13,6 +13,7 @@ Stack / Command Block: Looks like a square, shaped to attach to below and above 
 
 
 C-Block: Has a complex C shape, which means it can have blocks inside it because of the gap. It can also let blocks click into it from the top, or click itself into a block below.
+
 <img width="730" height="173" alt="image" src="https://github.com/user-attachments/assets/30f5ac3c-3d4f-4ef9-8de5-96bf32c7260b" />
 
 
