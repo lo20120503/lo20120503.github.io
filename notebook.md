@@ -6,11 +6,14 @@
 
 - [Blocks](#blocks)
 
-Hat Block	Looks like a square, It has a little hump at the top. It's used for starting a stack of blocks and belongs as the starting block at the very top of a stack.
+Hat Block: Looks like a square, It's shaped to attach to below blocks but not block above it. It's used for starting a stack of blocks and it belongs at the very top of a stack. <img width="321" height="153" alt="image" src="https://github.com/user-attachments/assets/d4927840-90d5-4d1d-a32d-fcd6a9c8a367" />
 
-Stack / Command Block	
 
-C-Block	
+Stack / Command Block: Looks like a square, shaped to attach to below and above blocks for a chain. It connects by clicking it into another block, or letting another block above it click into it. <img width="755" height="140" alt="image" src="https://github.com/user-attachments/assets/2f3bbf50-24cc-43e7-9d7e-8c138d0bdcc0" />
+
+
+C-Block: Has a complex C shape, which means it can have blocks inside it because of the gap. It can also let blocks click into it from the top, or click itself into a block below. <img width="730" height="173" alt="image" src="https://github.com/user-attachments/assets/30f5ac3c-3d4f-4ef9-8de5-96bf32c7260b" />
+
 
 Reporter / 
 
