@@ -19,7 +19,8 @@ C-Block: Has a complex C shape, which means it can have blocks inside it because
 
 Reporter / 
 
-Boolean / 
+Boolean: It reports conditions as true or false. Its shape is different because it has to fit inside blocks that have the same hexidomical shape as it. <img width="762" height="117" alt="image" src="https://github.com/user-attachments/assets/df3ec625-0c48-4f9f-bc53-fbdff9f0d7cf" />
+
 
 Repeat Block	
 
