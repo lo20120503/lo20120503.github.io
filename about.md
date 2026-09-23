@@ -6,5 +6,5 @@ I like to run, draw and sometimes do math that I understand, even though I'm not
 I also have a mixed breed of dog called Cheekies, a pug called Bella and a cat called Zelda (doesn't like me). I play games.
 ## Navigation
 
-[Notebook] (notebook.md)
-[Home] (index.md)
+[Notebook](notebook.md)
+[Home](index.md)
