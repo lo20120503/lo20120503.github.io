@@ -12,7 +12,7 @@ Hat Block: Looks like a square, It's shaped to attach to below blocks but not bl
 Stack / Command Block: Looks like a square, shaped to attach to below and above blocks for a chain. It connects by clicking it into another block, or letting another block above it click into it. <img width="755" height="140" alt="image" src="https://github.com/user-attachments/assets/2f3bbf50-24cc-43e7-9d7e-8c138d0bdcc0" />
 
 
-C-Block: Has a complex C shape, which means it can have blocks inside it because of the gap. It can also let blocks click into it from the top, or click itself into a block below.
+C-Block: Has a complex C shape, which means it can have blocks inside it because of the gap. It can also let blocks click into it from the top, or click itself into a block below.           
 
 <img width="730" height="173" alt="image" src="https://github.com/user-attachments/assets/30f5ac3c-3d4f-4ef9-8de5-96bf32c7260b" />
 
