@@ -27,11 +27,13 @@ Boolean: It reports conditions as true or false. Its shape is different because 
 Repeat Block: Shaped like a C, its shape allows it to have things inside it, over it and below it stacked. Its especially useful for sensing, logic operator and drivetrain blocks, but every block type can attach to it. <img width="228" height="103" alt="image" src="https://github.com/user-attachments/assets/a3598a2c-64d0-4f76-af0c-31a756f841ec" />
 	
 
-Wait Until Block:  
+Wait Until Block: It repeatedly checks a Boolean reporter block, and wont move to the next block until the Boolean block allows it.  <img width="140" height="63" alt="image" src="https://github.com/user-attachments/assets/594fe888-37b4-4153-bcda-66f4b17e6024" />
 
-If Then Block	
 
-Forever Block
+If Then Block: Shaped like a C to stack up and down or fit things inside it, the if then block checks for a condition, and activates when its met. When the condition is true, it activates the events put inside of it. <img width="242" height="90" alt="image" src="https://github.com/user-attachments/assets/5052ae2c-c95d-4210-9672-5172e0955dff" />
+
+
+Forever Block: Shaped like a C to fit things ontop inside and below it. Programmers use it to repeat a sequence forever because it allows for automatic events at any time, like automatically turning when you touch the color red. <img width="166" height="93" alt="image" src="https://github.com/user-attachments/assets/1b8f7bcc-f025-45f7-badf-47aabf433066" />
 
 - [Concepts](#concepts)
 
