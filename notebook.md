@@ -17,14 +17,16 @@ C-Block: Has a complex C shape, which means it can have blocks inside it because
 <img width="730" height="173" alt="image" src="https://github.com/user-attachments/assets/30f5ac3c-3d4f-4ef9-8de5-96bf32c7260b" />
 
 
-Reporter / 
+Reporter / Oval: Reports values in the form of numbers. Can be used anywhere with oval inputs, because it's an oval. <img width="401" height="137" alt="image" src="https://github.com/user-attachments/assets/f10e89a4-9f64-4d9b-9975-e765790e5bca" />
+
 
 Boolean: It reports conditions as true or false. Its shape is different because it has to fit inside blocks that have the same hexidomical shape as it. <img width="762" height="117" alt="image" src="https://github.com/user-attachments/assets/df3ec625-0c48-4f9f-bc53-fbdff9f0d7cf" />
 
 
-Repeat Block	
+Repeat Block: Shaped like a C, its shape allows it to have things inside it, over it and below it stacked. Its especially useful for sensing, logic operator and drivetrain blocks, but every block type can attach to it. <img width="228" height="103" alt="image" src="https://github.com/user-attachments/assets/a3598a2c-64d0-4f76-af0c-31a756f841ec" />
+	
 
-Wait Until Block 
+Wait Until Block:  
 
 If Then Block	
 
