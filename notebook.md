@@ -20,7 +20,7 @@ C-Block: Has a complex C shape, which means it can have blocks inside it because
 Reporter / Oval: Reports values in the form of numbers. Can be used anywhere with oval inputs, because it's an oval. <img width="401" height="137" alt="image" src="https://github.com/user-attachments/assets/f10e89a4-9f64-4d9b-9975-e765790e5bca" />
 
 
-Boolean: It reports conditions as true or false. Its shape is different because it has to fit inside blocks that have the same hexidomical shape as it. 
+Boolean: It reports conditions as true or false. Its shape is different because it allows to fit inside blocks that have the same hexadomical shape, rather--- than just stacking on them. 
 <img width="762" height="117" alt="image" src="https://github.com/user-attachments/assets/df3ec625-0c48-4f9f-bc53-fbdff9f0d7cf" />
 
 
