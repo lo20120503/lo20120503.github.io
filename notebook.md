@@ -1,18 +1,48 @@
-## Lulu's Github Notebook
+# Lulu's Github Notebook
 
 ## Table of Contents
 
-- [Notebook Style Guide]
-
 - [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
+- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+  - [Headings](#headings)
+  - [Text Formatting](#text-formatting)
+ 
 
-Hat Block: Looks like a square, It's shaped to attach to below blocks but not block above it. It's used for starting a stack of blocks and it belongs at the very top of a stack. <img width="321" height="153" alt="image" src="https://github.com/user-attachments/assets/d4927840-90d5-4d1d-a32d-fcd6a9c8a367" />
 
 
-Stack / Command Block: Looks like a square, shaped to attach to below and above blocks for a chain. It connects by clicking it into another block, or letting another block above it click into it. <img width="755" height="140" alt="image" src="https://github.com/user-attachments/assets/2f3bbf50-24cc-43e7-9d7e-8c138d0bdcc0" />
 
 
-C-Block: Has a complex C shape, which means it can have blocks inside it because of the gap. It can also let blocks click into it from the top, or click itself into a block below.           
+
+
+
+
+
+
+
+
+## Blocks
+
+
+### Hat Block: 
+
+Looks like a square, It's shaped to attach to below blocks but not block above it. 
+
+<img width="321" height="153" alt="image" src="https://github.com/user-attachments/assets/d4927840-90d5-4d1d-a32d-fcd6a9c8a367" />
+
+It's used for starting a stack of blocks and it belongs at the very top of a stack. 
+
+### Stack / Command Block: 
+
+Looks like a square, shaped to attach to below and above blocks for a chain. It connects by clicking it into another block, or letting another block above it click into it. 
+
+<img width="755" height="140" alt="image" src="https://github.com/user-attachments/assets/2f3bbf50-24cc-43e7-9d7e-8c138d0bdcc0" />
+
+
+### C-Block: 
+
+Has a complex C shape, which means it can have blocks inside it because of the gap. It can also let blocks click into it from the top, or click itself into a block below.           
 
 <img width="730" height="173" alt="image" src="https://github.com/user-attachments/assets/30f5ac3c-3d4f-4ef9-8de5-96bf32c7260b" />
 
@@ -35,15 +65,61 @@ If Then Block: Shaped like a C to stack up and down or fit things inside it, the
 
 Forever Block: Shaped like a C to fit things ontop inside and below it. Programmers use it to repeat a sequence forever because it allows for automatic events at any time, like automatically turning when you touch the color red. <img width="166" height="93" alt="image" src="https://github.com/user-attachments/assets/1b8f7bcc-f025-45f7-badf-47aabf433066" />
 
-- [Concepts](#concepts)
 
-- [Vocabulary](#vocabulary)
 
-- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
-  - [Headings](#headings)
 
-  - [Text Formatting](#text-formatting)
+
+
+
+
+
+
+
+
+## Concepts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Vocabulary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Markdown Style Guide for Coding Notebooks
@@ -172,11 +248,8 @@ When to use: Compare values, track progress, or organize data neatly.
 # Example:
 
 | Task        | Status   | Notes          |
-
 |--------------|------------|-----------------| 
-
 | Homework 1  | Done #  | Submitted      |
-
 | Homework 2  | Pending  | Needs review   |
 
  
