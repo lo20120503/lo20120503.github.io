@@ -4,26 +4,35 @@ This page documents my work and learning throughout the VEX VR Computer Science 
 
 ----------------------------------------------------------------------
 
-## Challenge: [Name]
+## Challenge: Find Your Age
 
 ### Goal
 
-Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
+The goal was to fill in blocks with your birth month, day and year, each having their own color.
 
 ### My Solution
 
-Add a picture or screenshot showing your solution.
+<img width="568" height="274" alt="image" src="https://github.com/user-attachments/assets/2d1139b7-bd48-41f0-b0ba-36a866959e97" />
+
 
 ### What I Learned
 
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
+I learned how to use the fill block, and how many inches long a block is.
 
 ---------------------------------------------------------------------------
 
 
+## Challenge: Basketball Drills
+
+The goal was to make lines on a grid that progressively go higher up.
+
+### My Solution 
+
+<img width="554" height="658" alt="image" src="https://github.com/user-attachments/assets/b3c02492-5190-47bb-9209-020a008ea95b" />
 
 
+### What I Learned
 
+I learned how to use the pen block, how to use the wait block and the when start block in other ways other than for starting.
 
-
-
+---------------------------------------------------------------------------
