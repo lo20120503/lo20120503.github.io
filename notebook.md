@@ -35,38 +35,67 @@ It's used for starting a stack of blocks and it belongs at the very top of a sta
 
 ### Stack / Command Block: 
 
-Looks like a square, shaped to attach to below and above blocks for a chain. It connects by clicking it into another block, or letting another block above it click into it. 
+
+Looks like a square, shaped to attach to below and above blocks for a chain.
 
 <img width="755" height="140" alt="image" src="https://github.com/user-attachments/assets/2f3bbf50-24cc-43e7-9d7e-8c138d0bdcc0" />
+
+It connects by clicking it into another block, or letting another block above it click into it. 
 
 
 ### C-Block: 
 
-Has a complex C shape, which means it can have blocks inside it because of the gap. It can also let blocks click into it from the top, or click itself into a block below.           
+Has a complex C shape, which means it can have blocks inside it because of the gap.      
 
 <img width="730" height="173" alt="image" src="https://github.com/user-attachments/assets/30f5ac3c-3d4f-4ef9-8de5-96bf32c7260b" />
 
+It can also let blocks click into it from the top, or click itself into a block below.     
 
-Reporter / Oval: Reports values in the form of numbers. Can be used anywhere with oval inputs, because it's an oval. <img width="401" height="137" alt="image" src="https://github.com/user-attachments/assets/f10e89a4-9f64-4d9b-9975-e765790e5bca" />
+
+### Reporter / Oval: 
+
+Reports values in the form of numbers.
+
+<img width="401" height="137" alt="image" src="https://github.com/user-attachments/assets/f10e89a4-9f64-4d9b-9975-e765790e5bca" />
+
+Can be used anywhere with oval inputs, because it's an oval.
 
 
-Boolean: It reports conditions as true or false. Its shape is different because it allows to fit inside blocks that have the same hexadomical shape, rather than just stacking on them. 
+### Boolean: 
+It reports conditions as true or false.
+
 <img width="762" height="117" alt="image" src="https://github.com/user-attachments/assets/df3ec625-0c48-4f9f-bc53-fbdff9f0d7cf" />
 
+Its shape is different because it allows to fit inside blocks that have the same hexadomical shape, rather than just stacking on them. 
 
-Repeat Block: Shaped like a C, its shape allows it to have things inside it, over it and below it stacked. Its especially useful for sensing, logic operator and drivetrain blocks, but every block type can attach to it. <img width="228" height="103" alt="image" src="https://github.com/user-attachments/assets/a3598a2c-64d0-4f76-af0c-31a756f841ec" />
-	
+### Repeat Block: 
 
-Wait Until Block: It repeatedly checks a Boolean reporter block, and wont move to the next block until the Boolean block allows it.  <img width="140" height="63" alt="image" src="https://github.com/user-attachments/assets/594fe888-37b4-4153-bcda-66f4b17e6024" />
+Shaped like a C, its shape allows it to have things inside it, over it and below it stacked. 
+
+<img width="228" height="103" alt="image" src="https://github.com/user-attachments/assets/a3598a2c-64d0-4f76-af0c-31a756f841ec" />
+
+Its especially useful for sensing, logic operator and drivetrain blocks, but every block type can attach to it.	
+
+### Wait Until Block: It repeatedly checks a Boolean reporter block. 
+
+<img width="140" height="63" alt="image" src="https://github.com/user-attachments/assets/594fe888-37b4-4153-bcda-66f4b17e6024" />
+
+It wont move to the next block until the Boolean block allows it.
+
+### If Then Block: 
+
+Shaped like a C to stack up and down or fit things inside it.
+
+<img width="242" height="90" alt="image" src="https://github.com/user-attachments/assets/5052ae2c-c95d-4210-9672-5172e0955dff" />
+
+The if then block checks for a condition, and activates when its met. When the condition is true, it activates the events put inside of it.
+
+### Forever Block: Shaped like a C to fit things ontop inside and below it. 
+
+<img width="166" height="93" alt="image" src="https://github.com/user-attachments/assets/1b8f7bcc-f025-45f7-badf-47aabf433066" />
 
 
-If Then Block: Shaped like a C to stack up and down or fit things inside it, the if then block checks for a condition, and activates when its met. When the condition is true, it activates the events put inside of it. <img width="242" height="90" alt="image" src="https://github.com/user-attachments/assets/5052ae2c-c95d-4210-9672-5172e0955dff" />
-
-
-Forever Block: Shaped like a C to fit things ontop inside and below it. Programmers use it to repeat a sequence forever because it allows for automatic events at any time, like automatically turning when you touch the color red. <img width="166" height="93" alt="image" src="https://github.com/user-attachments/assets/1b8f7bcc-f025-45f7-badf-47aabf433066" />
-
-
-
+Programmers use it to repeat a sequence forever because it allows for automatic events at any time, like automatically turning when you touch the color red
 
 
 
@@ -78,7 +107,7 @@ Forever Block: Shaped like a C to fit things ontop inside and below it. Programm
 
 
 ## Concepts
-
+Sequence:
 
 
 
